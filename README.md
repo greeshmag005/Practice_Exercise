@@ -1,5 +1,5 @@
 # Practice_Exercise
-# set the environment
+# environment setup
 
 ```
 cd ~/.rbenv/plugins/ruby-build && git pull && cd -
